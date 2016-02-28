@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 #author: zp
 '''
+PLA perceptron learn algorithm
 感知机学习算法的原始形式
 统计学习方法中算法2.1及例2.1简单实现
 '''
